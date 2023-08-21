@@ -106,7 +106,7 @@ function checkForMatch() {
   resultDisplay.textContent = cardsWon.length;
 
   if (cardsWon.length * 2 === cardArray.length) {
-    winMessage.textContent = " Congratulations, you have won!";
+    winMessage.textContent = " *Congratulations, you have won!";
   }
 
   console.log(cardsWon);
