@@ -7,7 +7,7 @@ body {
 
 .grid {
   width: 400px;
-  height: 300px;
+  height: auto;
   border: solid black 1px;
   background-color: white;
 }
